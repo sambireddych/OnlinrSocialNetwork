@@ -80,3 +80,10 @@ $("#studentNav").click(function(){
     $("#faculty").hide()
     $("#student").show()
 })
+
+$("#popup").click(function(){
+    alert("Accepted successfully.");
+  });
+  $("#popup1").click(function(){
+    alert("Rejected successfully ");
+  });
